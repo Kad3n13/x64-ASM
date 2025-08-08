@@ -2,7 +2,7 @@
 
 # Programmming with Linux
 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/3bbf1640-cdff-439a-bdab-45b7851ade74" />
+<img width="265" height="250" alt="image" src="https://github.com/user-attachments/assets/3bbf1640-cdff-439a-bdab-45b7851ade74" />
 
 
 <br>
