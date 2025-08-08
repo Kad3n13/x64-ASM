@@ -2,6 +2,8 @@
 
 # Programmming with Linux
 
+<br>
+
 <h1>It's All in the Plan</h1>
 <h1>Chapter 1</h1>
 <p>Understadning what Computers Really Do</p>
