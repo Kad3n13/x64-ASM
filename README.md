@@ -1,4 +1,10 @@
-# x64-ASM
+# x64-ASM-Step-By-Step
+
+#Programmming with Linux
+
+<h1>It's All in the Plan</h1>
+<h1>Chapter 1</h1>
+<p>Understadning what Computers Really Do</p>
 <h1>After Book Learn AVX Math subsytem for x64 ASM</h1>
 
 <h1>Make a "laundry list"</h1>
